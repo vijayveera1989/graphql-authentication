@@ -12,7 +12,7 @@ const schema = require('./schema/schema');
 const app = express();
 
 // Replace with your Mongo Atlas URI
-const MONGO_URI = 'mongodb+srv://Vijay:vijay123@cluster0.llq5qle.mongodb.net/';
+const MONGO_URI = 'mongodb+srv://####:####@cluster0.llq5qle.mongodb.net/';
 if (!MONGO_URI) {
   throw new Error('You must provide a Mongo Atlas URI');
 }

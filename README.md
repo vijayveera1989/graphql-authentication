@@ -1,6 +1,8 @@
 # auth-graphql-starter
 
-Starter project from a GraphQL course on Udemy.com - Section 3!
+Starter project GraphQL
+
+ReactJS,react-apollo,ApolloClient,NodeJS,Express,Express-Graphql,Passport,MongoDb
 
 ### Setup
 
